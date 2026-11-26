@@ -1,5 +1,5 @@
 // Service Worker for PWA installability
-var CACHE_NAME = 'workbench-v3';
+var CACHE_NAME = 'workbench-v4';
 var CACHE_URLS = [
   './',
   './index.html',
